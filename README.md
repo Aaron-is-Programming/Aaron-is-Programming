@@ -1,4 +1,4 @@
-### Hi there 👋
+### What
 
 <!--
 **Aaron-is-Programming/Aaron-is-Programming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
